@@ -9,3 +9,6 @@ This project used various classification models — logistic regression, decisio
 
 This project was first completed while enrolled at Jedha Bootcamp while earning a Data Science and Fullstack Development 
 professional certificate.
+
+
+#machinelearning, #logisticregression, #classification, #decisiontree
